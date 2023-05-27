@@ -12,10 +12,12 @@
     <link rel="stylesheet" href="style/layout.css">
     <link rel="stylesheet" href="style/carousel.css">
     <link rel="stylesheet" href="style/card.css">
+    <link rel="stylesheet" href="style/sidebar.css">
 
     <script src="js/jquery-3.7.0.js"></script>
     <script src="js/carousel.js"></script>
     <script src="js/card.js"></script>
+    <script src="js/find-form.js"></script>
 </head>
 <body>
     <div class="layout">
@@ -23,7 +25,40 @@
 
         </header>
         <div class="sidebar">
+            <form id="find-form">
+                <input type="text" class="search" placeholder="search"><br>
+                
+                <div class="check-group">
+                    <input type="checkbox" class="filter" name="card-game" checked="true">
+                    <span class="checkmark"></span>
+                    <label for="card-game">card game</label><br>
+                </div>
+                <div class="check-group">
+                    <input type="checkbox" class="filter" name="more-than-four-players" checked="true">
+                    <span class="checkmark"></span>
+                    <label for="more-than-four-players">>4 players</label><br>
+                </div>
+                <div class="check-group">
+                    <input type="checkbox" class="filter" name="casual" checked="true">
+                    <span class="checkmark"></span>
+                    <label for="casual">casual</label><br>
+                </div>
+                <div class="check-group">
+                    <input type="checkbox" class="filter" name="hardcore" checked="true">
+                    <span class="checkmark"></span>
+                    <label for="hardcore">hardcore</label><br>
+                </div>
+                <div class="check-group">
+                    <input type="checkbox" class="filter" name="classic" checked="true">
+                    <span class="checkmark"></span>
+                    <label for="classic">classic</label><br>
+                </div>
 
+                <div class="button-container">
+                    <button type="button" id="select-all">select all</button>
+                    <button type="button" id="deselect-all">deselect all</button>
+                </div>
+            </form>
         </div>
         <main>
             <div class="carousel">
@@ -32,20 +67,20 @@
                 <img src="images/img3.jpg">
             </div>
             <div class="content">
-                <div class="card">
+                <div class="card" data-title="UNO" data-tags="card-game casual classic">
                     <div class="img-container"><img src="images/img5.jpg"></div>
                     <div class="description">
                         <h3>UNO</h3>
                         <p>A game of luck and excitement!</p>
                     </div>
                 </div>
-                <div class="card"></div>
-                <div class="card"></div>
-                <div class="card"></div>
-                <div class="card"></div>
-                <div class="card"></div>
-                <div class="card"></div>
-                <div class="card"></div>
+                <div class="card" data-title="" data-tags=""></div>
+                <div class="card" data-title="" data-tags=""></div>
+                <div class="card" data-title="" data-tags=""></div>
+                <div class="card" data-title="" data-tags=""></div>
+                <div class="card" data-title="" data-tags=""></div>
+                <div class="card" data-title="" data-tags=""></div>
+                <div class="card" data-title="" data-tags=""></div>
             </div>
         </main>
     </div>
