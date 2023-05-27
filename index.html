@@ -6,11 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TableTop Titans</title>
 
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins&display=swap');
+    </style>
     <link rel="stylesheet" href="style/layout.css">
     <link rel="stylesheet" href="style/carousel.css">
+    <link rel="stylesheet" href="style/card.css">
 
     <script src="js/jquery-3.7.0.js"></script>
     <script src="js/carousel.js"></script>
+    <script src="js/card.js"></script>
 </head>
 <body>
     <div class="layout">
@@ -22,15 +27,18 @@
         </div>
         <main>
             <div class="carousel">
-                <img src="images/img1.jpg" alt="" class="active">
-                <img src="images/img2.jpg" alt="">
-                <img src="images/img3.jpg" alt="">
-
-                <!-- <button id="left-button"></button>
-                <button id="right-button"></button> -->
+                <img src="images/img1.jpg" class="active">
+                <img src="images/img2.jpg">
+                <img src="images/img3.jpg">
             </div>
             <div class="content">
-                <div class="card"></div>
+                <div class="card">
+                    <div class="img-container"><img src="images/img5.jpg"></div>
+                    <div class="description">
+                        <h3>UNO</h3>
+                        <p>A game of luck and excitement!</p>
+                    </div>
+                </div>
                 <div class="card"></div>
                 <div class="card"></div>
                 <div class="card"></div>

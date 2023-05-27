@@ -8,7 +8,7 @@
     position: absolute;
     left: 0%;
     
-    transition: 2s ease-in-out;
+    transition: 1.5s ease-in-out;
 }
 
 .carousel > img:not(.active) {

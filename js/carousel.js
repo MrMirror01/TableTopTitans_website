@@ -9,7 +9,7 @@ function carouselRight() {
     $(`.carousel > img:nth-child(${activeIdx + 1})`).toggleClass("active last");
     $(`.carousel > img:nth-child(${(activeIdx + 1) % count + 1})`).addClass("active");
 
-    setTimeout(resetLast, 2000, activeIdx);
+    setTimeout(resetLast, 1500, activeIdx);
 
     activeIdx = (activeIdx + 1) % count;
 }
