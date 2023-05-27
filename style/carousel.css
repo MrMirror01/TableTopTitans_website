@@ -1,0 +1,22 @@
+.carousel {
+    overflow: hidden;
+}
+
+.carousel > img {
+    width: 100%;
+    min-height: 100%;
+    position: absolute;
+    left: 0%;
+    
+    transition: 2s ease-in-out;
+}
+
+.carousel > img:not(.active) {
+    left: -100%;
+    z-index: -2;
+}
+
+.carousel > img.last {
+    left: 100%;
+    z-index: -1;
+}
