@@ -5,16 +5,16 @@
         "img_big" : "images/img5.jpg",
         "description_short" : "A game of luck and excitement!",
         "description_long" : "Players race to empty their hands and catch opposing players with cards left in theirs, which score points. In turns, players attempt to play a card by matching its color, number, or word to the topmost card on the discard pile. If unable to play, players draw a card from the draw pile, and if still unable to play, they pass their turn. Wild and special cards spice things up a bit. UNO is a commercial version of Crazy Eights, a public domain card game played with a standard deck of playing cards. This entry includes all themed versions of UNO that do not include new cards.",
-        "tags" : "Card game Casual Classic",
+        "tags" : "Card game Casual Classic >4 players 2 players 3-4 players",
         "price" : "15.00"
     },
     {
-        "name" : "UNO",
-        "img_small" : "images/img5.jpg",
-        "img_big" : "images/img5.jpg",
-        "description_short" : "A game of luck and excitement!",
-        "description_long" : "Players race to empty their hands and catch opposing players with cards left in theirs, which score points. In turns, players attempt to play a card by matching its color, number, or word to the topmost card on the discard pile. If unable to play, players draw a card from the draw pile, and if still unable to play, they pass their turn. Wild and special cards spice things up a bit. UNO is a commercial version of Crazy Eights, a public domain card game played with a standard deck of playing cards. This entry includes all themed versions of UNO that do not include new cards.",
-        "tags" : "Card game Casual Classic",
+        "name" : "Wingspan",
+        "img_small" : "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
+        "img_big" : "https://cf.geekdo-images.com/LgSlpZUvHfAsu2m2PtKZXQ__imagepagezoom/img/2wPpzdmnt6FTKS9H_WwrGjanSPM=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4449792.jpg",
+        "description_short" : "Wingspan is a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games",
+        "description_long" : "You are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats focus on several key aspects of growth: \n Gain food tokens via custom dice in a birdfeeder dice tower \n Lay eggs using egg miniatures in a variety of colors \n Draw from hundreds of unique bird cards and play them \n The winner is the player with the most points after 4 rounds.",
+        "tags" : "Card game >4 players 2 players 3-4 players",
         "price" : "15.00"
     },
     {
