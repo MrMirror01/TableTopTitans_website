@@ -3,13 +3,10 @@ function updateSearch(){
     let currentTags = [];
 
     $(".filter").each(function (){
-        //console.log($(this).is(":checked"));
         if ($(this).is(":checked")){
-            currentTags.push($(this).attr("name"));
+            currentTags.push($(this).attr("name").toLowerCase());
         }
     });
-
-    console.log(currentTags);
         
     $(".card").each(function (){
         var title = $(this).data("title").toLowerCase();
@@ -33,17 +30,13 @@ function updateSearch(){
 }
 
 $(document).ready(function(){
-    $(".check-group").click(function (){
-        $(this).children().first().prop("checked", !($(this).children().first().is(":checked")));
-        updateSearch();
-    });
     $(".search").on("input", updateSearch);
     $("#select-all").click(function (){
         $(".filter").prop("checked", true);
+        updateSearch();
     });
     $("#deselect-all").click(function (){
         $(".filter").prop("checked", false);
+        updateSearch();
     });
-
-    
 });

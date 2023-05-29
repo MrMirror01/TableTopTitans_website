@@ -11,11 +11,3 @@ $(document).mousemove((event) => {
         });
     }
 });
-
-$(document).ready(function() {
-    $(".card").mouseleave(function() {
-        $(this).css({
-            "transform" : "none"
-        });
-    })
-});
