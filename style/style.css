@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Montserrat:wght@300&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geologica&family=Montserrat:wght@300&family=Poppins&display=swap');
 
 :root {
     --accent: rgb(248, 237, 159)
@@ -27,7 +27,7 @@ body {
 }
 
 h1, h2 {
-    font-family: 'Gowun Dodum', sans-serif;
+    font-family: 'Geologica', sans-serif;
 }
 
 /* width */
