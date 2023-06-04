@@ -62,14 +62,49 @@
         "tags" : "Classic Casual 2 players 3-4 players Expansion",
         "price" : "50.00"
     },
+
+
+
+
+
+
     {
         "name": "Codenames",
         "img_small": "https://cf.geekdo-images.com/xkIaiJHhePQk3eLYRkTfCg__imagepage/img/DzPtawH59toO9v9L55_9hxI4zCM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2582929.jpg",
         "img_big": "https://cf.geekdo-images.com/Cgfu49F1SSRkHgZAw0mLMw__imagepage/img/Blnv3hdnQYUk-uKYX_k9SLtF_XA=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2582929.jpg",
         "description_short": "A social word game of deduction",
         "description_long": "In Codenames, two teams compete against each other to locate their agents in the field. Each team has a spymaster who gives one-word clues to help their teammates guess the correct codenames of the agents. However, be careful not to lead your team to the assassin or give away your opponent's agents. The team that identifies all their agents first wins.",
-        "tags": "Party game Social deduction 4+ players",
+        "tags": "Party game Social deduction 2 players 3-4 players >4 players",
         "price": "25.00"
+      },
+
+
+      {
+        "name": "Carcassonne",
+        "img_small": "https://cf.geekdo-images.com/tP8nXVC1IxXa0ZmZZa5Rgw__imagepage/img/Eo3OnpWvDJQ6mGOF6G-4ewSQJ00=/fit-in/900x600/filters:no_upscale():strip_icc()/pic233757.jpg",
+        "img_big": "https://cf.geekdo-images.com/KXKrKOTDs-9Ufq2G0vUkbw__imagepage/img/nIoYUEgI7kk6iWBy3O_zam6_qJI=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic233757.jpg",
+        "description_short": "Build the medieval landscape of Carcassonne",
+        "description_long": "Carcassonne is a tile-placement game where players take turns placing tiles to build cities, roads, monasteries, and fields. By strategically placing their followers (meeples) on these features, players score points. The game offers endless possibilities as each game unfolds differently with the placement of tiles. The player with the most points at the end of the game wins.",
+        "tags": "Tile placement Family 2 palyers",
+        "price": "30.00"
+      },
+      {
+        "name": "Pandemic",
+        "img_small": "https://cf.geekdo-images.com/l1YuA8i2aAqIUoZ5nA_6dg__imagepage/img/rB0ZErqGzgDTE5fGIti6J4e1NfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1534148.jpg",
+        "img_big": "https://cf.geekdo-images.com/LsXdj9z2B26oA3O06w2XZQ__imagepagezoom/img/FsMqJn8pQ2G6GafuNFe-uL9Yr90=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic1534148.jpg",
+        "description_short": "Work together to save humanity from deadly diseases",
+        "description_long": "Pandemic is a cooperative game where players take on the roles of skilled specialists attempting to prevent the spread of diseases across the world. Each player has unique abilities, and teamwork is essential to find cures and prevent outbreaks. Can you save humanity from the brink of disaster?",
+        "tags": "Cooperative Strategy 2 players 3-4 players",
+        "price": "40.00"
+      },
+      {
+        "name": "Ticket to Ride",
+        "img_small": "https://cf.geekdo-images.com/Wo0b9DCh6uR2P1m1HemBEg__imagepage/img/0omdgjFKW0Bo3rk1Gf2J0Y8k86I=/fit-in/900x600/filters:no_upscale():strip_icc()/pic38668.jpg",
+        "img_big": "https://cf.geekdo-images.com/00AJTG-0IyFyyvBUzuAvXw__imagepagezoom/img/Wm57WJ2pCFDeBfD5d28bL_1z3YY=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic38668.jpg",
+        "description_short": "Build train routes across the country",
+        "description_long": "Ticket to Ride is a cross-country train adventure where players collect and play matching train cards to claim railway routes. The goal is to connect cities and complete destination tickets to earn points. But be careful, as other players may block your path. The player with the highest score at the end of the game wins.",
+        "tags": "Family Casual Strategy 2 players 3-4 players >4 players",
+        "price": "35.00"
       },
       
 
