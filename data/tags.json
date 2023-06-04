@@ -5,18 +5,15 @@
     "3-4 players",
     ">4 players",
     "Casual",
-    "Hardcore",
     "Classic",
     "Expansion",
     "Family",
     "Cooperative",
     "Strategy",
-    "Party game",
+    
     "Eurogame",
-    "Abstract strategy",
     "Dice rolling",
     "Tile placement",
-    "Worker placement",
     "Deck-building",
     "Social deduction"
 ]

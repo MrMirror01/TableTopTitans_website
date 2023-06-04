@@ -14,7 +14,7 @@
         "img_big" : "https://cf.geekdo-images.com/LgSlpZUvHfAsu2m2PtKZXQ__imagepagezoom/img/2wPpzdmnt6FTKS9H_WwrGjanSPM=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4449792.jpg",
         "description_short" : "A game for gamer and new comers alike",
         "description_long" : "You are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats focus on several key aspects of growth: \n Gain food tokens via custom dice in a birdfeeder dice tower \n Lay eggs using egg miniatures in a variety of colors \n Draw from hundreds of unique bird cards and play them \n The winner is the player with the most points after 4 rounds.",
-        "tags" : "Card game >4 players 2 players 3-4 players",
+        "tags" : "Card game >4 players 2 players 3-4 players Dice rolling",
         "price" : "15.00"
     },
     {
@@ -41,7 +41,7 @@
         "img_big" : "https://assetsio.reedpopcdn.com/catan-board-game-layout.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
         "description_short" : "Players try to be the dominant force on the island of Catan by building settlements, cities, and roads.!",
         "description_long" : " Players build by spending resources (sheep, wheat, wood, brick and ore) that are depicted by these resource cards; each land type, with the exception of the unproductive desert, produces a specific resource: hills produce brick, forests produce wood, mountains produce ore, fields produce wheat, and pastures produce sheep.",
-        "tags" : "Classic 2 players 3-4 players",
+        "tags" : "Classic 2 players 3-4 players Dice rolling",
         "price" : "40.00"
     },
     {
@@ -50,7 +50,7 @@
         "img_big" : "https://i5.walmartimages.com/asr/113139b6-4e60-4cfa-9c34-527157239895.bea70e5fe4528732d686324b84a100a2.jpeg",
         "description_short" : "Monopoly is a multi-player economics-themed board game.",
         "description_long" : "Monopoly is a multi-player economics-themed board game. In the game, players roll two dice to move around the game board, buying and trading properties and developing them with houses and hotels. Players collect rent from their opponents and aim to drive them into bankruptcy. Money can also be gained or lost through Chance and Community Chest cards and tax squares.",
-        "tags" : "Classic Casual 2 players 3-4 players",
+        "tags" : "Classic Casual 2 players 3-4 players Dice rolling",
         "price" : "40.00"
     },
     {
@@ -59,9 +59,11 @@
         "img_big" : "https://www.growingtreetoys.com/cdn/shop/products/s820677207579784711_p49_i6_w900_1200x1200.jpeg?v=1565752876",
         "description_short" : "Build ships, set sail, and conquer the magnificent island world of Catan.",
         "description_long" : "This is an expansion for The Settlers of Catan. Players can build shipping lanes, which are very similar to roads. Additionally, the game comes with many different water-hex-heavy variant setups.",
-        "tags" : "Classic Casual 2 players 3-4 players Expansion",
+        "tags" : "Classic Casual 2 players 3-4 players Expansion Dice rolling",
         "price" : "50.00"
     },
+
+
 
 
 
@@ -77,8 +79,6 @@
         "tags": "Party game Social deduction 2 players 3-4 players >4 players",
         "price": "25.00"
       },
-
-
       {
         "name": "Carcassonne",
         "img_small": "https://cf.geekdo-images.com/tP8nXVC1IxXa0ZmZZa5Rgw__imagepage/img/Eo3OnpWvDJQ6mGOF6G-4ewSQJ00=/fit-in/900x600/filters:no_upscale():strip_icc()/pic233757.jpg",
@@ -106,11 +106,97 @@
         "tags": "Family Casual Strategy 2 players 3-4 players >4 players",
         "price": "35.00"
       },
+      {
+  "name": "Scythe",
+  "img_small": "https://cf.geekdo-images.com/6fC4tJ4VMiAe08KbXT_5Ww__imagepage/img/7JEF6MKLml1ihmiIzifMv_SciZo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3163924.jpg",
+  "img_big": "https://cf.geekdo-images.com/14A1S4cFm78lyo2c3GrN3w__imagepagezoom/img/f-SIFv52lm30g0MbC_6jY2n2vno=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3163924.jpg",
+  "description_short": "Lead your faction to conquer post-war Europa",
+  "description_long": "In Scythe, players take on the roles of fallen leaders seeking to restore their honor and lead their factions to power in Eastern Europa. The game combines engine-building, resource management, and strategic combat. Each player commands a unique character and their own mech, aiming to expand their territory and gain control. The player with the most victory points at the end of the game wins.",
+  "tags": "Strategy Eurogame 2 players 3-4 players >4 players",
+  "price": "55.00"
+    },
+    {
+        "name": "Splendor",
+        "img_small": "https://cf.geekdo-images.com/ih_nT7UjPwZFXjhpGHwKQA__imagepage/img/XIIVL3GhBnN0sJ9fP6D1N4nnC2E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1904078.jpg",
+        "img_big": "https://cf.geekdo-images.com/qcFi2m_nQKXGE6oIPblJuQ__imagepagezoom/img/DfusTe4QlEJfbO3cDWtTfHbrsm4=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic1904078.jpg",
+        "description_short": "Acquire gems and build your gem empire",
+        "description_long": "Splendor is a fast-paced, strategic card game where players collect gems to purchase developments and earn prestige points. The game features simple rules and high-quality components. Acquire the most valuable gems and become the most influential merchant in the Renaissance era.",
+        "tags": "Card game Family Casual Strategy 2 players 3-4 players",
+        "price": "30.00"
+      },
+      {
+        "name": "Dixit",
+        "img_small": "https://cf.geekdo-images.com/qEnPL00xTwaw7MWwx2KbDw__imagepage/img/QsTkV5jHw7hXXk5dNeqRS-4xSTI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3483909.jpg",
+        "img_big": "https://cf.geekdo-images.com/FRo6jsZgrlAQujWlUtTszg__imagepagezoom/img/CRN7hJZ1I6K14tJfysmnOms7t-4=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3483909.jpg",
+        "description_short": "A unique and imaginative storytelling game",
+        "description_long": "Dixit is a beautifully illustrated game where players use their creativity and imagination to tell stories based on abstract picture cards. Each round, a storyteller gives a clue, and other players must select the card that best represents the clue. The chosen cards are mixed and revealed, and players must guess which card belongs to the storyteller. Points are awarded for correct guesses and clever clue-giving.",
+        "tags": "Family Casual Party game 3-4 players >4 players",
+        "price": "20.00"
+      },      
+      {
+        "name": "Terraforming Mars",
+        "img_small": "https://cf.geekdo-images.com/oDkjRjQgU1GuCwif8gVt_A__imagepage/img/salixUZKc8E_lU6jzrZI0ri_nO4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3536616.jpg",
+        "img_big": "https://cf.geekdo-images.com/zXm0FAt5mhz_5-fu7aGxRA__imagepagezoom/img/ftJwu_0IgPwsYwzqSZ8XQ3VMwuQ=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3536616.jpg",
+        "description_short": "Lead your corporation in the terraforming of Mars",
+        "description_long": "Terraforming Mars is a complex strategy game where players take on the roles of corporations competing to transform Mars into a habitable planet. Manage resources, build infrastructure, and strategically play project cards to increase oxygen levels, temperature, and water on the planet. The player with the most successful terraforming and highest Terraform Rating wins the game.",
+        "tags": "Strategy Eurogame 2 players 3-4 players >4 players",
+        "price": "60.00"
+      },
+      {
+        "name": "7 Wonders",
+        "img_small": "https://cf.geekdo-images.com/qyGjGbvpVq9yDgHY1i1xTA__imagepage/img/yw-T4__FS7rSJjRmSdR96hTie70=/fit-in/900x600/filters:no_upscale():strip_icc()/pic860217.jpg",
+        "img_big": "https://cf.geekdo-images.com/kJw9EEz6oKqD0f9IzD9xMg__imagepagezoom/img/5eg0gjr3AR5Y7qtkBPIl3pGvdgg=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic860217.jpg",
+        "description_short": "Lead your civilization to greatness through the ages",
+        "description_long": "7 Wonders is a card-drafting game where players represent ancient civilizations competing to build the most magnificent wonders of the world. Develop your cities, build structures, and gather resources to advance through three ages. Make strategic decisions to outshine your opponents and leave a lasting legacy.",
+        "tags": "Strategy Card game 2 players 3-4 players >4 players",
+        "price": "40.00"
+      },
+      {
+        "name": "Love Letter",
+        "img_small": "https://cf.geekdo-images.com/yRbvBYdOVgEISN8hlWws7A__imagepage/img/iGzNp8mRDADGGqow77pTgJzRdf8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1401442.jpg",
+        "img_big": "https://cf.geekdo-images.com/MX0GBalhQouA5t_j89yB9A__imagepagezoom/img/Jg0v9_Q4b-KAXsPzcOCHesAvqMQ=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic1401442.jpg",
+        "description_short": "Win the heart of the Princess",
+        "description_long": "Love Letter is a quick and elegant deduction game where players attempt to deliver their love letter to the Princess. Each card represents a character with a special ability. Use strategy, deduction, and a little luck to outmaneuver your opponents and remain the last player standing.",
+        "tags": "Card game Casual 2 players 3-4 players ",
+        "price": "10.00"
+      },
+      {
+        "name": "Secret Hitler",
+        "img_small": "https://cf.geekdo-images.com/qyAv80n4SNUu9lJZCf-zBQ__imagepage/img/JJgOJXiyD-TunIc6UlsLizS1bMA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5164301.jpg",
+        "img_big": "https://cf.geekdo-images.com/c6XBLwTstPvpP9Emuhfemg__imagepagezoom/img/7IQbifzuvAKHQqGxfv34Jai1_JM=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5164301.jpg",
+        "description_short": "A hidden identity and deduction party game",
+        "description_long": "Secret Hitler is a social deduction game where players take on hidden roles of either liberals or fascists. The liberals aim to pass liberal policies, while the fascists work towards electing their secret leader, Hitler, into power. Through debate, manipulation, and deduction, players must uncover each other's identities and prevent the rise of fascism. A thrilling party game for 5-10 players.",
+        "tags": "Party game Social deduction >4 players",
+        "price": "25.00"
+      },
+      {
+        "name": "Blood on the Clocktower",
+        "img_small": "https://cf.geekdo-images.com/vWUZCX4-AYO4yKvOpkG2ZQ__imagepage/img/A9lWRyAqN5xfPHmQeVXdUQCGHv0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5111172.jpg",
+        "img_big": "https://cf.geekdo-images.com/Q0Tn-vQ6Z8NtF2_RJc4BXA__imagepagezoom/img/j-1Emt6cV_-FZlUo2iR3z2ex9V0=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5111172.jpg",
+        "description_short": "A social deduction storytelling game",
+        "description_long": "Blood on the Clocktower is an immersive social deduction game where players inhabit different characters in a captivating narrative. The game features unique powers, bluffing, and deduction as players uncover hidden roles and try to identify the demon that lurks within their midst. With its engrossing storytelling and ever-changing scenarios, Blood on the Clocktower provides endless replayability and excitement. Perfect for large groups of 5-20 players.",
+        "tags": "Party game Social deduction >4 players",
+        "price": "60.00"
+      },
+      {
+        "name": "Ascension",
+        "img_small": "https://cf.geekdo-images.com/oKxkRXniq25YqGN19jwHwQ__imagepage/img/WF4AeDx7BFK-_uMjKLlAqk8gLrI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic710007.jpg",
+        "img_big": "https://cf.geekdo-images.com/tS-t0efzv3JHOC5OZVe5Gw__imagepagezoom/img/vC0mOUqK2LX2sT2o1OBTf3bYcKc=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic710007.jpg",
+        "description_short": "A deck-building game of heroes and power",
+        "description_long": "Ascension is a dynamic deck-building game where players take on the role of powerful heroes seeking to defeat the forces of darkness. Recruit champions, acquire powerful cards, and construct your deck to gain honor and vanquish monsters. The game combines strategy, resource management, and tactical choices to create a thrilling experience. Suitable for 2-4 players.",
+        "tags": "Card game Strategy 2 players 3-4 players",
+        "price": "30.00"
+      },
+      {
+        "name": "Machina Arcana",
+        "img_small": "https://cf.geekdo-images.com/ndYGU2NzBDSOVz7yUfVttQ__imagepage/img/EBq68DgCw4omtVT7v8kMuzOTWt4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2055014.jpg",
+        "img_big": "https://cf.geekdo-images.com/tw7fiN3Fn-YrK2umBYGEEA__imagepagezoom/img/ID29h9MMa4TOjv1i8h3Y7M7E9dM=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2055014.jpg",
+        "description_short": "A dark steampunk-themed cooperative game",
+        "description_long": "Machina Arcana is a dark and immersive cooperative game set in a steampunk-themed world. Players take on the roles of explorers navigating through eerie locations filled with ancient technology and unspeakable horrors. Work together to uncover the mysteries, face challenging encounters, and solve puzzles to survive. With its atmospheric artwork and unique gameplay, Machina Arcana provides a captivating gaming experience. Suitable for 1-4 players.",
+        "tags": "Cooperative Strategy 2 players 3-4 players Single player",
+        "price": "65.00"
+      }
       
-
-
-
-
 
 
 
