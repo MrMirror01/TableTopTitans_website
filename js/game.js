@@ -9,6 +9,7 @@ $(document).ready(function (){
 
         $(".game-title").text(game.name);
         $(".description").text(game.description_long);
-        $("img").attr("src", game.img_big);
+        $(".game-image").attr("src", game.img_big);
+        $(".price").text(game.price + " €");
     });
 });

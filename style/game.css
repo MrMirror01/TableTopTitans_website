@@ -15,15 +15,15 @@ body {
 }
 
 header {
-    width: 80%;
+    width: 65%;
 }
 
 main {
-    width: 80%;
+    width: 65%;
     display: grid;
 
     grid-template-rows: 1fr 5fr 1fr;
-    grid-template-columns: 8fr 5fr 1fr;
+    grid-template-columns: 7fr 5fr 2fr;
 
     gap: 1rem;
 }
@@ -32,6 +32,7 @@ main {
     grid-column: 1 / span 1;
     grid-row: 1 / -1;
 
+    border-radius: 1rem;
     overflow: hidden;
 }
 
@@ -56,7 +57,16 @@ main {
     grid-row: 2 / span 1;
 }
 
-.price {
+.price-container {
     grid-column: 3 / span 1;
     grid-row: 3 / span 1;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: end;
+}
+
+.price {
+    font-size: x-large;
 }
