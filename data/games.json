@@ -76,6 +76,7 @@
         "description_long": "In Codenames, two teams compete against each other to locate their agents in the field. Each team has a spymaster who gives one-word clues to help their teammates guess the correct codenames of the agents. However, be careful not to lead your team to the assassin or give away your opponent's agents. The team that identifies all their agents first wins.",
         "tags": "Party game Social deduction 2 players 3-4 players >4 players",
         "price": "25.00"
+<<<<<<< Updated upstream
       },
 
 
@@ -106,6 +107,9 @@
         "tags": "Family Casual Strategy 2 players 3-4 players >4 players",
         "price": "35.00"
       },
+=======
+    },
+>>>>>>> Stashed changes
       
 
 
