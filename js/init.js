@@ -1,9 +1,9 @@
 $(document).ready(function() {
     $.getJSON("data/games.json", function(games) {        
         let content = "";
-        games.forEach(function (game){
+        games.forEach(function (game, index){
             content += `
-            <div class="card" data-title="${game.name}" data-tags="${game.tags}">
+            <div class="card" data-id="${index}" data-title="${game.name}" data-tags="${game.tags}">
                 <div class="img-container"><img src="${game.img_small}"></div>
                 <div class="description">
                     <h3>${game.name}</h3>
@@ -20,6 +20,10 @@ $(document).ready(function() {
                 "transform" : "none"
             });
         })
+
+        $(".card").click(function () {
+            location.href = `game.html?id=${$(this).data("id")}`;
+        });
     });
 
     $.getJSON("data/tags.json", function(tags) {
@@ -41,6 +45,4 @@ $(document).ready(function() {
             updateSearch();
         });
     });
-
-    
 });
