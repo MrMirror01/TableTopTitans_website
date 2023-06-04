@@ -7,5 +7,16 @@
     "Casual",
     "Hardcore",
     "Classic",
-    "Expansion"
+    "Expansion",
+    "Family",
+    "Cooperative",
+    "Strategy",
+    "Party game",
+    "Eurogame",
+    "Abstract strategy",
+    "Dice rolling",
+    "Tile placement",
+    "Worker placement",
+    "Deck-building",
+    "Social deduction"
 ]

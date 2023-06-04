@@ -45,6 +45,51 @@
         "price" : "40.00"
     },
     {
+        "name" : "Monopoly",
+        "img_small" : "https://www.hasbro.com/common/productimages/en_US/7EABAF9750569047F5778F4663C79E75/ee616120d6a46a0dc71d39ce6857290414129b14.jpg",
+        "img_big" : "https://i5.walmartimages.com/asr/113139b6-4e60-4cfa-9c34-527157239895.bea70e5fe4528732d686324b84a100a2.jpeg",
+        "description_short" : "Monopoly is a multi-player economics-themed board game.",
+        "description_long" : "Monopoly is a multi-player economics-themed board game. In the game, players roll two dice to move around the game board, buying and trading properties and developing them with houses and hotels. Players collect rent from their opponents and aim to drive them into bankruptcy. Money can also be gained or lost through Chance and Community Chest cards and tax squares.",
+        "tags" : "Classic Casual 2 players 3-4 players",
+        "price" : "40.00"
+    },
+    {
+        "name" : "Catan: Seafarers",
+        "img_small" : "https://cdn.shopify.com/s/files/1/0523/5752/9790/products/catansea.jpg?v=1628323411",
+        "img_big" : "https://www.growingtreetoys.com/cdn/shop/products/s820677207579784711_p49_i6_w900_1200x1200.jpeg?v=1565752876",
+        "description_short" : "Build ships, set sail, and conquer the magnificent island world of Catan.",
+        "description_long" : "This is an expansion for The Settlers of Catan. Players can build shipping lanes, which are very similar to roads. Additionally, the game comes with many different water-hex-heavy variant setups.",
+        "tags" : "Classic Casual 2 players 3-4 players Expansion",
+        "price" : "50.00"
+    },
+    {
+        "name": "Codenames",
+        "img_small": "https://cf.geekdo-images.com/xkIaiJHhePQk3eLYRkTfCg__imagepage/img/DzPtawH59toO9v9L55_9hxI4zCM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2582929.jpg",
+        "img_big": "https://cf.geekdo-images.com/Cgfu49F1SSRkHgZAw0mLMw__imagepage/img/Blnv3hdnQYUk-uKYX_k9SLtF_XA=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2582929.jpg",
+        "description_short": "A social word game of deduction",
+        "description_long": "In Codenames, two teams compete against each other to locate their agents in the field. Each team has a spymaster who gives one-word clues to help their teammates guess the correct codenames of the agents. However, be careful not to lead your team to the assassin or give away your opponent's agents. The team that identifies all their agents first wins.",
+        "tags": "Party game Social deduction 4+ players",
+        "price": "25.00"
+      },
+      
+
+
+
+
+
+
+
+    
+    {
+        "name" : "",
+        "img_small" : "",
+        "img_big" : "",
+        "description_short" : "",
+        "description_long" : "",
+        "tags" : "",
+        "price" : ""
+    },
+    {
         "name" : "",
         "img_small" : "",
         "img_big" : "",
