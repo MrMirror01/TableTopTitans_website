@@ -1,5 +1,6 @@
 .carousel {
     overflow: hidden;
+    border-radius: 1rem;
 }
 
 .carousel > img {
