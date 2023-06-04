@@ -1,75 +1,67 @@
 [
     {
-        "name" : "UNO",
-        "img_small" : "images/img5.jpg",
-        "img_big" : "images/img5.jpg",
-        "description_short" : "A game of luck and excitement!",
-        "description_long" : "Players race to empty their hands and catch opposing players with cards left in theirs, which score points. In turns, players attempt to play a card by matching its color, number, or word to the topmost card on the discard pile. If unable to play, players draw a card from the draw pile, and if still unable to play, they pass their turn. Wild and special cards spice things up a bit. UNO is a commercial version of Crazy Eights, a public domain card game played with a standard deck of playing cards. This entry includes all themed versions of UNO that do not include new cards.",
-        "tags" : "Card game Casual Classic >4 players 2 players 3-4 players",
-        "price" : "15.00"
+        "name": "UNO",
+        "img_small": "images/img5.jpg",
+        "img_big": "images/img5.jpg",
+        "description_short": "A game of luck and excitement!",
+        "description_long": "Players race to empty their hands and catch opposing players with cards left in theirs, which score points. In turns, players attempt to play a card by matching its color, number, or word to the topmost card on the discard pile. If unable to play, players draw a card from the draw pile, and if still unable to play, they pass their turn. Wild and special cards spice things up a bit. UNO is a commercial version of Crazy Eights, a public domain card game played with a standard deck of playing cards. This entry includes all themed versions of UNO that do not include new cards.",
+        "tags": "Card game Casual Classic >4 players 2 players 3-4 players",
+        "price": "15.00"
     },
     {
-        "name" : "Wingspan",
-        "img_small" : "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
-        "img_big" : "https://cf.geekdo-images.com/LgSlpZUvHfAsu2m2PtKZXQ__imagepagezoom/img/2wPpzdmnt6FTKS9H_WwrGjanSPM=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4449792.jpg",
-        "description_short" : "A game for gamer and new comers alike",
-        "description_long" : "You are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats focus on several key aspects of growth: \n Gain food tokens via custom dice in a birdfeeder dice tower \n Lay eggs using egg miniatures in a variety of colors \n Draw from hundreds of unique bird cards and play them \n The winner is the player with the most points after 4 rounds.",
-        "tags" : "Card game >4 players 2 players 3-4 players Dice rolling",
-        "price" : "15.00"
+        "name": "Wingspan",
+        "img_small": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
+        "img_big": "https://cf.geekdo-images.com/LgSlpZUvHfAsu2m2PtKZXQ__imagepagezoom/img/2wPpzdmnt6FTKS9H_WwrGjanSPM=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4449792.jpg",
+        "description_short": "A game for gamer and new comers alike",
+        "description_long": "You are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats focus on several key aspects of growth: \n Gain food tokens via custom dice in a birdfeeder dice tower \n Lay eggs using egg miniatures in a variety of colors \n Draw from hundreds of unique bird cards and play them \n The winner is the player with the most points after 4 rounds.",
+        "tags": "Card game >4 players 2 players 3-4 players Dice rolling",
+        "price": "15.00"
     },
     {
-        "name" : "Exploding Kittens",
-        "img_small" : "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/o62nqn8udlhrrihbdrpt",
-        "img_big" : "https://cdn.shopify.com/s/files/1/0345/9180/1483/products/ek_original_edition_02_x2_fbcea8eb-d2ce-46cb-8515-ebb9a3180038_1440x.png?v=1678405351",
-        "description_short" : "A kitty powered version of Russian Roulette",
-        "description_long" : "Players draw cards until somebody draws an Exploding Kitten, at which point they explode and are out of the game. To avoid exploding, they can defuse the kitten with a laser pointer or catnip sandwich OR use powerful action cards to move or avoid the Exploding Kitten. Betray your friends. Try not to explode. The last player left alive wins.",
-        "tags" : "Card game Casual 2 players 3-4 players >4 players",
-        "price" : "50.00"
+        "name": "Exploding Kittens",
+        "img_small": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/o62nqn8udlhrrihbdrpt",
+        "img_big": "https://cdn.shopify.com/s/files/1/0345/9180/1483/products/ek_original_edition_02_x2_fbcea8eb-d2ce-46cb-8515-ebb9a3180038_1440x.png?v=1678405351",
+        "description_short": "A kitty powered version of Russian Roulette",
+        "description_long": "Players draw cards until somebody draws an Exploding Kitten, at which point they explode and are out of the game. To avoid exploding, they can defuse the kitten with a laser pointer or catnip sandwich OR use powerful action cards to move or avoid the Exploding Kitten. Betray your friends. Try not to explode. The last player left alive wins.",
+        "tags": "Card game Casual 2 players 3-4 players >4 players",
+        "price": "50.00"
     },
     {
-        "name" : "Not Alone",
-        "img_small" : "https://cf.geekdo-images.com/2nPAI9x1rOjj2fq30qRFvQ__itemrep/img/1ERMkh7wBJzMquTJ9toZqSJAUXg=/fit-in/246x300/filters:strip_icc()/pic3118416.jpg",
-        "img_big" : "https://www.shutupandsitdown.com/wp-content/uploads/2019/06/IMG_1541-1.jpg",
-        "description_short" : "Asymmetrical card game, in which one player plays against the stranded explorers.",
-        "description_long" : "If you play as one of the Hunted, you will explore Artemia using Place cards. By playing these and Survival cards, you try to avoid, confuse or distract the Creature until help arrives. If you play as the Creature, you will stalk and pursue the shipwrecked survivors. By playing your Hunt cards and using the mysterious powers of Artemia, you try to wear down the Hunted and assimilate them to the planet forever.",
-        "tags" : "Card game Casual 2 players 3-4 players >4 players",
-        "price" : "25.00"
+        "name": "Not Alone",
+        "img_small": "https://cf.geekdo-images.com/2nPAI9x1rOjj2fq30qRFvQ__itemrep/img/1ERMkh7wBJzMquTJ9toZqSJAUXg=/fit-in/246x300/filters:strip_icc()/pic3118416.jpg",
+        "img_big": "https://www.shutupandsitdown.com/wp-content/uploads/2019/06/IMG_1541-1.jpg",
+        "description_short": "Asymmetrical card game, in which one player plays against the stranded explorers.",
+        "description_long": "If you play as one of the Hunted, you will explore Artemia using Place cards. By playing these and Survival cards, you try to avoid, confuse or distract the Creature until help arrives. If you play as the Creature, you will stalk and pursue the shipwrecked survivors. By playing your Hunt cards and using the mysterious powers of Artemia, you try to wear down the Hunted and assimilate them to the planet forever.",
+        "tags": "Card game Casual 2 players 3-4 players >4 players",
+        "price": "25.00"
     },
     {
-        "name" : "Catan",
-        "img_small" : "https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg",
-        "img_big" : "https://assetsio.reedpopcdn.com/catan-board-game-layout.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
-        "description_short" : "Players try to be the dominant force on the island of Catan by building settlements, cities, and roads.!",
-        "description_long" : " Players build by spending resources (sheep, wheat, wood, brick and ore) that are depicted by these resource cards; each land type, with the exception of the unproductive desert, produces a specific resource: hills produce brick, forests produce wood, mountains produce ore, fields produce wheat, and pastures produce sheep.",
-        "tags" : "Classic 2 players 3-4 players Dice rolling",
-        "price" : "40.00"
+        "name": "Catan",
+        "img_small": "https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg",
+        "img_big": "https://assetsio.reedpopcdn.com/catan-board-game-layout.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+        "description_short": "Players try to be the dominant force on the island of Catan by building settlements, cities, and roads.!",
+        "description_long": " Players build by spending resources (sheep, wheat, wood, brick and ore) that are depicted by these resource cards; each land type, with the exception of the unproductive desert, produces a specific resource: hills produce brick, forests produce wood, mountains produce ore, fields produce wheat, and pastures produce sheep.",
+        "tags": "Classic 2 players 3-4 players Dice rolling",
+        "price": "40.00"
     },
     {
-        "name" : "Monopoly",
-        "img_small" : "https://www.hasbro.com/common/productimages/en_US/7EABAF9750569047F5778F4663C79E75/ee616120d6a46a0dc71d39ce6857290414129b14.jpg",
-        "img_big" : "https://i5.walmartimages.com/asr/113139b6-4e60-4cfa-9c34-527157239895.bea70e5fe4528732d686324b84a100a2.jpeg",
-        "description_short" : "Monopoly is a multi-player economics-themed board game.",
-        "description_long" : "Monopoly is a multi-player economics-themed board game. In the game, players roll two dice to move around the game board, buying and trading properties and developing them with houses and hotels. Players collect rent from their opponents and aim to drive them into bankruptcy. Money can also be gained or lost through Chance and Community Chest cards and tax squares.",
-        "tags" : "Classic Casual 2 players 3-4 players Dice rolling",
-        "price" : "40.00"
+        "name": "Monopoly",
+        "img_small": "https://www.hasbro.com/common/productimages/en_US/7EABAF9750569047F5778F4663C79E75/ee616120d6a46a0dc71d39ce6857290414129b14.jpg",
+        "img_big": "https://i5.walmartimages.com/asr/113139b6-4e60-4cfa-9c34-527157239895.bea70e5fe4528732d686324b84a100a2.jpeg",
+        "description_short": "Monopoly is a multi-player economics-themed board game.",
+        "description_long": "Monopoly is a multi-player economics-themed board game. In the game, players roll two dice to move around the game board, buying and trading properties and developing them with houses and hotels. Players collect rent from their opponents and aim to drive them into bankruptcy. Money can also be gained or lost through Chance and Community Chest cards and tax squares.",
+        "tags": "Classic Casual 2 players 3-4 players Dice rolling",
+        "price": "40.00"
     },
     {
-        "name" : "Catan: Seafarers",
-        "img_small" : "https://cdn.shopify.com/s/files/1/0523/5752/9790/products/catansea.jpg?v=1628323411",
-        "img_big" : "https://www.growingtreetoys.com/cdn/shop/products/s820677207579784711_p49_i6_w900_1200x1200.jpeg?v=1565752876",
-        "description_short" : "Build ships, set sail, and conquer the magnificent island world of Catan.",
-        "description_long" : "This is an expansion for The Settlers of Catan. Players can build shipping lanes, which are very similar to roads. Additionally, the game comes with many different water-hex-heavy variant setups.",
-        "tags" : "Classic Casual 2 players 3-4 players Expansion Dice rolling",
-        "price" : "50.00"
+        "name": "Catan: Seafarers",
+        "img_small": "https://cdn.shopify.com/s/files/1/0523/5752/9790/products/catansea.jpg?v=1628323411",
+        "img_big": "https://www.growingtreetoys.com/cdn/shop/products/s820677207579784711_p49_i6_w900_1200x1200.jpeg?v=1565752876",
+        "description_short": "Build ships, set sail, and conquer the magnificent island world of Catan.",
+        "description_long": "This is an expansion for The Settlers of Catan. Players can build shipping lanes, which are very similar to roads. Additionally, the game comes with many different water-hex-heavy variant setups.",
+        "tags": "Classic Casual 2 players 3-4 players Expansion Dice rolling",
+        "price": "50.00"
     },
-
-
-
-
-
-
-
-
     {
         "name": "Codenames",
         "img_small": "https://cf.geekdo-images.com/xkIaiJHhePQk3eLYRkTfCg__imagepage/img/DzPtawH59toO9v9L55_9hxI4zCM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2582929.jpg",
@@ -78,8 +70,8 @@
         "description_long": "In Codenames, two teams compete against each other to locate their agents in the field. Each team has a spymaster who gives one-word clues to help their teammates guess the correct codenames of the agents. However, be careful not to lead your team to the assassin or give away your opponent's agents. The team that identifies all their agents first wins.",
         "tags": "Party game Social deduction 2 players 3-4 players >4 players",
         "price": "25.00"
-      },
-      {
+    },
+    {
         "name": "Carcassonne",
         "img_small": "https://cf.geekdo-images.com/tP8nXVC1IxXa0ZmZZa5Rgw__imagepage/img/Eo3OnpWvDJQ6mGOF6G-4ewSQJ00=/fit-in/900x600/filters:no_upscale():strip_icc()/pic233757.jpg",
         "img_big": "https://cf.geekdo-images.com/KXKrKOTDs-9Ufq2G0vUkbw__imagepage/img/nIoYUEgI7kk6iWBy3O_zam6_qJI=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic233757.jpg",
@@ -87,8 +79,8 @@
         "description_long": "Carcassonne is a tile-placement game where players take turns placing tiles to build cities, roads, monasteries, and fields. By strategically placing their followers (meeples) on these features, players score points. The game offers endless possibilities as each game unfolds differently with the placement of tiles. The player with the most points at the end of the game wins.",
         "tags": "Tile placement Family 2 palyers",
         "price": "30.00"
-      },
-      {
+    },
+    {
         "name": "Pandemic",
         "img_small": "https://cf.geekdo-images.com/l1YuA8i2aAqIUoZ5nA_6dg__imagepage/img/rB0ZErqGzgDTE5fGIti6J4e1NfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1534148.jpg",
         "img_big": "https://cf.geekdo-images.com/LsXdj9z2B26oA3O06w2XZQ__imagepagezoom/img/FsMqJn8pQ2G6GafuNFe-uL9Yr90=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic1534148.jpg",
@@ -96,8 +88,8 @@
         "description_long": "Pandemic is a cooperative game where players take on the roles of skilled specialists attempting to prevent the spread of diseases across the world. Each player has unique abilities, and teamwork is essential to find cures and prevent outbreaks. Can you save humanity from the brink of disaster?",
         "tags": "Cooperative Strategy 2 players 3-4 players",
         "price": "40.00"
-      },
-      {
+    },
+    {
         "name": "Ticket to Ride",
         "img_small": "https://cf.geekdo-images.com/Wo0b9DCh6uR2P1m1HemBEg__imagepage/img/0omdgjFKW0Bo3rk1Gf2J0Y8k86I=/fit-in/900x600/filters:no_upscale():strip_icc()/pic38668.jpg",
         "img_big": "https://cf.geekdo-images.com/00AJTG-0IyFyyvBUzuAvXw__imagepagezoom/img/Wm57WJ2pCFDeBfD5d28bL_1z3YY=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic38668.jpg",
@@ -105,15 +97,15 @@
         "description_long": "Ticket to Ride is a cross-country train adventure where players collect and play matching train cards to claim railway routes. The goal is to connect cities and complete destination tickets to earn points. But be careful, as other players may block your path. The player with the highest score at the end of the game wins.",
         "tags": "Family Casual Strategy 2 players 3-4 players >4 players",
         "price": "35.00"
-      },
-      {
-  "name": "Scythe",
-  "img_small": "https://cf.geekdo-images.com/6fC4tJ4VMiAe08KbXT_5Ww__imagepage/img/7JEF6MKLml1ihmiIzifMv_SciZo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3163924.jpg",
-  "img_big": "https://cf.geekdo-images.com/14A1S4cFm78lyo2c3GrN3w__imagepagezoom/img/f-SIFv52lm30g0MbC_6jY2n2vno=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3163924.jpg",
-  "description_short": "Lead your faction to conquer post-war Europa",
-  "description_long": "In Scythe, players take on the roles of fallen leaders seeking to restore their honor and lead their factions to power in Eastern Europa. The game combines engine-building, resource management, and strategic combat. Each player commands a unique character and their own mech, aiming to expand their territory and gain control. The player with the most victory points at the end of the game wins.",
-  "tags": "Strategy Eurogame 2 players 3-4 players >4 players",
-  "price": "55.00"
+    },
+    {
+        "name": "Scythe",
+        "img_small": "https://cf.geekdo-images.com/6fC4tJ4VMiAe08KbXT_5Ww__imagepage/img/7JEF6MKLml1ihmiIzifMv_SciZo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3163924.jpg",
+        "img_big": "https://cf.geekdo-images.com/14A1S4cFm78lyo2c3GrN3w__imagepagezoom/img/f-SIFv52lm30g0MbC_6jY2n2vno=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3163924.jpg",
+        "description_short": "Lead your faction to conquer post-war Europa",
+        "description_long": "In Scythe, players take on the roles of fallen leaders seeking to restore their honor and lead their factions to power in Eastern Europa. The game combines engine-building, resource management, and strategic combat. Each player commands a unique character and their own mech, aiming to expand their territory and gain control. The player with the most victory points at the end of the game wins.",
+        "tags": "Strategy Eurogame 2 players 3-4 players >4 players",
+        "price": "55.00"
     },
     {
         "name": "Splendor",
@@ -123,8 +115,8 @@
         "description_long": "Splendor is a fast-paced, strategic card game where players collect gems to purchase developments and earn prestige points. The game features simple rules and high-quality components. Acquire the most valuable gems and become the most influential merchant in the Renaissance era.",
         "tags": "Card game Family Casual Strategy 2 players 3-4 players",
         "price": "30.00"
-      },
-      {
+    },
+    {
         "name": "Dixit",
         "img_small": "https://cf.geekdo-images.com/qEnPL00xTwaw7MWwx2KbDw__imagepage/img/QsTkV5jHw7hXXk5dNeqRS-4xSTI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3483909.jpg",
         "img_big": "https://cf.geekdo-images.com/FRo6jsZgrlAQujWlUtTszg__imagepagezoom/img/CRN7hJZ1I6K14tJfysmnOms7t-4=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3483909.jpg",
@@ -132,8 +124,8 @@
         "description_long": "Dixit is a beautifully illustrated game where players use their creativity and imagination to tell stories based on abstract picture cards. Each round, a storyteller gives a clue, and other players must select the card that best represents the clue. The chosen cards are mixed and revealed, and players must guess which card belongs to the storyteller. Points are awarded for correct guesses and clever clue-giving.",
         "tags": "Family Casual Party game 3-4 players >4 players",
         "price": "20.00"
-      },      
-      {
+    },
+    {
         "name": "Terraforming Mars",
         "img_small": "https://cf.geekdo-images.com/oDkjRjQgU1GuCwif8gVt_A__imagepage/img/salixUZKc8E_lU6jzrZI0ri_nO4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3536616.jpg",
         "img_big": "https://cf.geekdo-images.com/zXm0FAt5mhz_5-fu7aGxRA__imagepagezoom/img/ftJwu_0IgPwsYwzqSZ8XQ3VMwuQ=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3536616.jpg",
@@ -141,8 +133,8 @@
         "description_long": "Terraforming Mars is a complex strategy game where players take on the roles of corporations competing to transform Mars into a habitable planet. Manage resources, build infrastructure, and strategically play project cards to increase oxygen levels, temperature, and water on the planet. The player with the most successful terraforming and highest Terraform Rating wins the game.",
         "tags": "Strategy Eurogame 2 players 3-4 players >4 players",
         "price": "60.00"
-      },
-      {
+    },
+    {
         "name": "7 Wonders",
         "img_small": "https://cf.geekdo-images.com/qyGjGbvpVq9yDgHY1i1xTA__imagepage/img/yw-T4__FS7rSJjRmSdR96hTie70=/fit-in/900x600/filters:no_upscale():strip_icc()/pic860217.jpg",
         "img_big": "https://cf.geekdo-images.com/kJw9EEz6oKqD0f9IzD9xMg__imagepagezoom/img/5eg0gjr3AR5Y7qtkBPIl3pGvdgg=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic860217.jpg",
@@ -150,8 +142,8 @@
         "description_long": "7 Wonders is a card-drafting game where players represent ancient civilizations competing to build the most magnificent wonders of the world. Develop your cities, build structures, and gather resources to advance through three ages. Make strategic decisions to outshine your opponents and leave a lasting legacy.",
         "tags": "Strategy Card game 2 players 3-4 players >4 players",
         "price": "40.00"
-      },
-      {
+    },
+    {
         "name": "Love Letter",
         "img_small": "https://cf.geekdo-images.com/yRbvBYdOVgEISN8hlWws7A__imagepage/img/iGzNp8mRDADGGqow77pTgJzRdf8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1401442.jpg",
         "img_big": "https://cf.geekdo-images.com/MX0GBalhQouA5t_j89yB9A__imagepagezoom/img/Jg0v9_Q4b-KAXsPzcOCHesAvqMQ=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic1401442.jpg",
@@ -159,8 +151,8 @@
         "description_long": "Love Letter is a quick and elegant deduction game where players attempt to deliver their love letter to the Princess. Each card represents a character with a special ability. Use strategy, deduction, and a little luck to outmaneuver your opponents and remain the last player standing.",
         "tags": "Card game Casual 2 players 3-4 players ",
         "price": "10.00"
-      },
-      {
+    },
+    {
         "name": "Secret Hitler",
         "img_small": "https://cf.geekdo-images.com/qyAv80n4SNUu9lJZCf-zBQ__imagepage/img/JJgOJXiyD-TunIc6UlsLizS1bMA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5164301.jpg",
         "img_big": "https://cf.geekdo-images.com/c6XBLwTstPvpP9Emuhfemg__imagepagezoom/img/7IQbifzuvAKHQqGxfv34Jai1_JM=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5164301.jpg",
@@ -168,8 +160,8 @@
         "description_long": "Secret Hitler is a social deduction game where players take on hidden roles of either liberals or fascists. The liberals aim to pass liberal policies, while the fascists work towards electing their secret leader, Hitler, into power. Through debate, manipulation, and deduction, players must uncover each other's identities and prevent the rise of fascism. A thrilling party game for 5-10 players.",
         "tags": "Party game Social deduction >4 players",
         "price": "25.00"
-      },
-      {
+    },
+    {
         "name": "Blood on the Clocktower",
         "img_small": "https://cf.geekdo-images.com/vWUZCX4-AYO4yKvOpkG2ZQ__imagepage/img/A9lWRyAqN5xfPHmQeVXdUQCGHv0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5111172.jpg",
         "img_big": "https://cf.geekdo-images.com/Q0Tn-vQ6Z8NtF2_RJc4BXA__imagepagezoom/img/j-1Emt6cV_-FZlUo2iR3z2ex9V0=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5111172.jpg",
@@ -177,8 +169,8 @@
         "description_long": "Blood on the Clocktower is an immersive social deduction game where players inhabit different characters in a captivating narrative. The game features unique powers, bluffing, and deduction as players uncover hidden roles and try to identify the demon that lurks within their midst. With its engrossing storytelling and ever-changing scenarios, Blood on the Clocktower provides endless replayability and excitement. Perfect for large groups of 5-20 players.",
         "tags": "Party game Social deduction >4 players",
         "price": "60.00"
-      },
-      {
+    },
+    {
         "name": "Ascension",
         "img_small": "https://cf.geekdo-images.com/oKxkRXniq25YqGN19jwHwQ__imagepage/img/WF4AeDx7BFK-_uMjKLlAqk8gLrI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic710007.jpg",
         "img_big": "https://cf.geekdo-images.com/tS-t0efzv3JHOC5OZVe5Gw__imagepagezoom/img/vC0mOUqK2LX2sT2o1OBTf3bYcKc=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic710007.jpg",
@@ -186,8 +178,8 @@
         "description_long": "Ascension is a dynamic deck-building game where players take on the role of powerful heroes seeking to defeat the forces of darkness. Recruit champions, acquire powerful cards, and construct your deck to gain honor and vanquish monsters. The game combines strategy, resource management, and tactical choices to create a thrilling experience. Suitable for 2-4 players.",
         "tags": "Card game Strategy 2 players 3-4 players",
         "price": "30.00"
-      },
-      {
+    },
+    {
         "name": "Machina Arcana",
         "img_small": "https://cf.geekdo-images.com/ndYGU2NzBDSOVz7yUfVttQ__imagepage/img/EBq68DgCw4omtVT7v8kMuzOTWt4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2055014.jpg",
         "img_big": "https://cf.geekdo-images.com/tw7fiN3Fn-YrK2umBYGEEA__imagepagezoom/img/ID29h9MMa4TOjv1i8h3Y7M7E9dM=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2055014.jpg",
@@ -195,28 +187,5 @@
         "description_long": "Machina Arcana is a dark and immersive cooperative game set in a steampunk-themed world. Players take on the roles of explorers navigating through eerie locations filled with ancient technology and unspeakable horrors. Work together to uncover the mysteries, face challenging encounters, and solve puzzles to survive. With its atmospheric artwork and unique gameplay, Machina Arcana provides a captivating gaming experience. Suitable for 1-4 players.",
         "tags": "Cooperative Strategy 2 players 3-4 players Single player",
         "price": "65.00"
-      }
-      
-
-
-
-    
-    {
-        "name" : "",
-        "img_small" : "",
-        "img_big" : "",
-        "description_short" : "",
-        "description_long" : "",
-        "tags" : "",
-        "price" : ""
-    },
-    {
-        "name" : "",
-        "img_small" : "",
-        "img_big" : "",
-        "description_short" : "",
-        "description_long" : "",
-        "tags" : "",
-        "price" : ""
     }
 ]
